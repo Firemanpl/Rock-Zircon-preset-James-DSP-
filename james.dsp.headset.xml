@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="dsp.compression.knee">30</string>
+    <string name="dsp.bs2b.mode">0</string>
+    <string name="dsp.compression.ratio">12</string>
+    <string name="dsp.bass.mode">600</string>
+    <boolean name="dsp.masterswitch.enable" value="true" />
+    <boolean name="dsp.stereowide.enable" value="false" />
+    <string name="dsp.stereowide.mode">0</string>
+    <boolean name="dsp.bs2b.enable" value="false" />
+    <string name="dsp.compression.threshold">-60</string>
+    <string name="dsp.tone.eq">custom</string>
+    <boolean name="dsp.bass.enable" value="true" />
+    <string name="dsp.compression.pregain">12</string>
+    <string name="dsp.compression.release">0.24</string>
+    <string name="dsp.convolver.resampler"></string>
+    <string name="dsp.compression.attack">0.01</string>
+    <string name="dsp.masterswitch.limthreshold">-0.1</string>
+    <string name="dsp.bass.filtertype">0</string>
+    <boolean name="dsp.tone.enable" value="true" />
+    <string name="dsp.masterswitch.limrelease">60.0</string>
+    <boolean name="dsp.streq.enable" value="false" />
+    <string name="dsp.bass.freq">55</string>
+    <boolean name="dsp.analogmodelling.enable" value="false" />
+    <string name="dsp.convolver.quality">1</string>
+    <string name="dsp.headphone.preset">15</string>
+    <boolean name="dsp.headphone.enable" value="false" />
+    <string name="dsp.analogmodelling.tubedrive">2</string>
+    <boolean name="dsp.convolver.enable" value="false" />
+    <string name="dsp.convolver.files">Error: No IR file selected</string>
+    <string name="dsp.strph.stringleft">PhaseShifterLeft: 0.0 0.0; </string>
+    <string name="dsp.streq.stringp">GraphicEQ: 0.0 0.0; </string>
+    <string name="dsp.tone.filtertype">0</string>
+    <string name="dsp.tone.eq.custom">1.8126583;1.7539368;1.7539368;1.7245770;1.6658554;1.5190525;0.0000000;0.0000000;0.0000000;-2.3418484;-4.9549313;-5.0136528;-2.5473719;0.0000000;0.0000000;</string>
+    <string name="dsp.streq.filtertype">0</string>
+    <string name="dsp.strph.stringright">PhaseShifterRight: 0.0 180.0; 22000.0 180.0</string>
+    <string name="dsp.ddc.files">Error: No DDC file selected</string>
+    <string name="dsp.convolver.gain">0.0</string>
+</map>
